@@ -1,5 +1,20 @@
 Proxy Buddy Software Update History
-Current Version: 3.3.2.1
+Current Version: 3.3.4
+
+Version 3.3.4 (March 25, 2025)
+Bug Fixes
+    - Fixed bug affecting the determination of the protocol for proxy servers.Improvements
+    - Performance improvements.
+    - Overall stability enhancements.
+
+Version 3.3.3 (January 21, 2025)
+New Features
+    - Upgraded underlying frameworks for enhanced performance and stability
+Bug Fixes
+    - Corrected version detection to ensure accurate release information
+Improvements
+    - Updated internal resources for better reliability
+    - Enhanced compatibility and maintainability throughout the application
 
 Version 3.3.2.1 (July 9, 2023)
  Fixes:
